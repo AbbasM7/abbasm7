@@ -28,10 +28,7 @@
 - **Mini Relaxing — Offline Games** — collection of casual mini-games (offline)  
   Play: https://play.google.com/store/apps/details?id=com.deadpixel.mini.relaxing.offline.games
 
-- **Twisted Rope Puzzle 3D** — 1M+ downloads, 4.3★  
-  Play: https://play.google.com/store/apps/dev?id=5222276251014223799&hl=en (see “More by Dead Pixel Labs”)
-
-> More shipped titles on the portfolio page above (e.g., Screw Jam Nuts & Bolts, Number Run Merge, Offroad BMX, etc.).
+> More shipped titles on the portfolio page above (e.g., Screw Jam Nuts & Bolts, Number Run Merge, etc.).
 
 ---
 
@@ -47,15 +44,6 @@
   <!-- Firebase -->
   <img alt="Firebase" title="Firebase" height="32"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <!-- AdMob (fixed icon) -->
-  <img alt="AdMob" title="Google AdMob" height="32"
-       src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Google_AdMob_logo.svg" />
-  <!-- AppLovin / MAX -->
-  <img alt="AppLovin (MAX)" title="AppLovin / MAX" height="32"
-       src="https://cdn.simpleicons.org/applovin" />
-  <!-- Android / Play -->
-  <img alt="Android" title="Android" height="32"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <!-- Git -->
   <img alt="Git" title="Git" height="32"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -73,7 +61,5 @@
 ---
 
 ## 💬 Contact
-- Email: **abbasmoizv17@gmail.com**  
-- Portfolio: **Google Play — Dead Pixel Labs**  
-  https://play.google.com/store/apps/dev?id=5222276251014223799&hl=en
+- Email: **abbasmoizv17@gmail.com**
 
