@@ -18,15 +18,29 @@
 
 ---
 
-## 🧩 Featured Projects (Google Play)
-- **Traffic Car Jam Escape** — 1M+ downloads, 4.8★  
-  Play: https://play.google.com/store/apps/details?id=com.gp.car.escape.traffic.jam
+🧩 Featured Projects (Google Play)
+🔝 10M+ Downloads
 
-- **Color Block Puzzle: 3D Jam** — 100K+ downloads, 4.7★  
-  Play: https://play.google.com/store/apps/details?id=com.deadpixel.colorblockjam
+Blade Battle: Merge Master — 10M+ downloads, 4.7★
+Play: https://play.google.com/store/apps/details?id=com.gp.spinner.battle.blade.game
 
-- **Mini Relaxing — Offline Games** — collection of casual mini-games (offline)  
-  Play: https://play.google.com/store/apps/details?id=com.deadpixel.mini.relaxing.offline.games
+⭐ 1M+ Downloads
+
+Traffic Car Jam Escape — 1M+ downloads, 4.8★
+Play: https://play.google.com/store/apps/details?id=com.gp.car.escape.traffic.jam
+
+Color Block Puzzle: 3D Jam — 1M+ downloads, 4.7★
+Play: https://play.google.com/store/apps/details?id=com.deadpixel.colorblockjam
+
+Mini Relaxing — Offline Games — 1M+ downloads, collection of casual mini-games (offline)
+Play: https://play.google.com/store/apps/details?id=com.deadpixel.mini.relaxing.offline.games
+
+📈 100K+ Downloads
+
+Snake Puzzle: Slither Master — 100K+ downloads, logic-based snake puzzle game
+Play: https://play.google.com/store/apps/details?id=com.deadpixel.snakepuzzle.slithertoeat
+
+  
 
 > More shipped titles on the portfolio page above (e.g., Screw Jam Nuts & Bolts, Number Run Merge, etc.).
 
